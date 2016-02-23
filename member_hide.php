@@ -1,6 +1,6 @@
 <?php
 /*
-# HTTP Referer Block
+# Hide Member List
 # Originally for siph0n forum.
 # Coded by: sn
 */
